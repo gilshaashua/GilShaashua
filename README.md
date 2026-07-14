@@ -5,6 +5,22 @@ Frontend developer from Petah Tiwqah, Israel. <br>
   Graduate of the Coding Academy - an intensive coding bootcamp (640hours).
 </p>
 
+<div class="section">
+        <div class="main-title">Employment Experience</div>
+        <div class="entry">
+          <div class="entry-head">
+            <div class="entry-role">Junior Frontend Developer <span class="entry-company">· Antelope Systems</span></div>
+            <div class="entry-dates">Sep 2024 – Jul 2026</div>
+          </div>
+          <ul class="bullets">
+            <li>Built and maintained features across Antelope's enterprise, white-label CRM for forex brokers, alongside its companion Client Area app used by customers to track their accounts and trading activity.</li>
+            <li>Developed core CRM functionality for operators to manage customer users, including permission controls, trading account management, and deposit/withdrawal processing.</li>
+            <li>Partnered with a teammate to migrate a legacy client-details module from AngularJS to a standalone Angular 21 micro-frontend, packaged as a web component and embedded inside the CRM's AngularJS/Angular 7 hybrid shell — using zoneless change detection and Signals to power a customizable, drag-and-drop layout with a significant performance gain.</li>
+            <li>Worked within a multi-brand, white-label architecture, using environment-variable feature flags to configure functionality and branding independently per brand and branch.</li>
+          </ul>
+        </div>
+      </div>
+
 <h2> My skills - </h2>
 
 <p>
