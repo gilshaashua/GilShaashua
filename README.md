@@ -65,19 +65,6 @@ Graphic design studies (612 hours) for print and digital — UI/UX.
 
 <br>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gilshaashua&show_icons=true&theme=default&hide_border=true" height="165px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilshaashua&layout=compact&hide_border=true" height="165px" />
-</p>
-
-<br>
-
 <p align="center">
   📫 Reach me at <a href="mailto:gilshaashua@gmail.com">gilshaashua@gmail.com</a>
 </p>
-
-<!--
-**GilShaashua/GilShaashua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
