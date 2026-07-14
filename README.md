@@ -57,8 +57,8 @@ like Claude Code and Cursor as part of the day-to-day workflow.
 
 ## 🎓 Education
 
-**Full-Stack Bootcamp** · Coding Academy — `2023`
-An intensive coding bootcamp (640 hours) qualifying Fullstack developers.
+**Bootcamp** · Coding Academy — `2023`
+An intensive coding bootcamp (640 hours).
 
 **Mentor College** — `2020 – 2021`
 Graphic design studies (612 hours) for print and digital — UI/UX.
