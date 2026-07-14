@@ -20,8 +20,8 @@
 
 ## 👨‍💻 About Me
 
-Frontend developer specializing in Angular, experienced in enterprise forex CRM Application. 
-Graduate of the Coding Academy — an intensive 640-hour coding bootcamp qualifying Fullstack developers.
+Frontend developer specializing in Angular, experienced in enterprise forex CRM Application. <br>
+Graduate of the Coding Academy — an intensive 640-hour coding bootcamp.
 
 <br>
 
@@ -31,7 +31,7 @@ Graduate of the Coding Academy — an intensive 640-hour coding bootcamp qualify
 `Sep 2024 – Jul 2026`
 
 - Built and maintained features across Antelope's enterprise, white-label CRM for forex brokers, alongside its companion Client Area app used by customers to track their accounts and trading activity.
-- Developed core CRM functionality for operators to manage customer users, including permission controls, trading account management, and deposit/withdrawal processing.
+- Developed and maintained core CRM functionality for operators to manage customer users, including permission controls, trading account management, and deposit/withdrawal processing.
 - Partnered with a teammate to migrate a legacy client-details module from AngularJS to a standalone Angular 21 micro-frontend, packaged as a web component and embedded inside the CRM's AngularJS/Angular 7 hybrid shell — using zoneless change detection and Signals with a significant performance gain.
 - Worked within a multi-brand, white-label architecture, using environment-variable feature flags to configure functionality and branding independently per brand.
 
