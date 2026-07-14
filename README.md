@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Gil Shaashua 👋</h1>
 
 <p align="center">
-  Junior Frontend Developer from Petah Tikva, Israel 🇮🇱
+  Frontend Developer from Petah Tikva, Israel 🇮🇱
 </p>
 
 <p align="center">
@@ -20,8 +20,12 @@
 
 ## 👨‍💻 About Me
 
-Frontend developer specializing in Angular, currently building enterprise features for a white-label forex CRM. Graduate of the Coding Academy — an intensive 640-hour coding bootcamp qualifying Fullstack developers.
-
+Frontend developer specializing in Angular, with hands-on experience
+building features inside an enterprise, white-label CRM for forex brokers.
+Comfortable with modern Angular tools including standalone components,
+Signals, zoneless change detection, and micro-frontend web components,
+plus a solid base in JavaScript and TypeScript. Also uses AI-assisted tools
+like Claude Code and Cursor as part of the day-to-day workflow.
 <br>
 
 ## 💼 Experience
