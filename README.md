@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Gil Shaashua 👋</h1>
 
 <p align="center">
-  Frontend Developer from Petah Tikva, Israel 🇮🇱
+  Junior Frontend Developer from Petah Tikva, Israel 🇮🇱
 </p>
 
 <p align="center">
@@ -20,8 +20,7 @@
 
 ## 👨‍💻 About Me
 
-Frontend developer specializing in Angular, experienced in enterprise forex CRM Application. <br>
-Graduate of the Coding Academy — an intensive 640-hour coding bootcamp.
+Frontend developer specializing in Angular, currently building enterprise features for a white-label forex CRM. Graduate of the Coding Academy — an intensive 640-hour coding bootcamp qualifying Fullstack developers.
 
 <br>
 
@@ -31,9 +30,11 @@ Graduate of the Coding Academy — an intensive 640-hour coding bootcamp.
 `Sep 2024 – Jul 2026`
 
 - Built and maintained features across Antelope's enterprise, white-label CRM for forex brokers, alongside its companion Client Area app used by customers to track their accounts and trading activity.
-- Developed and maintained core CRM functionality for operators to manage their clients, including permission controls, trading account management, and deposit/withdrawal processing.
-- Partnered with a teammate to migrate a legacy client-details module from AngularJS to a standalone Angular 21 micro-frontend, packaged as a web component and embedded inside the CRM's AngularJS/Angular 7 hybrid shell — using zoneless change detection and Signals with a significant performance gain.
-- Worked within a multi-brand, white-label architecture, using environment-variable feature flags to configure functionality and branding independently per brand.
+- Developed and maintained core CRM functionality for operators to manage their clients, including permission controls, trading account management, and deposit/withdrawal processing, etc.
+- Partnered with a teammate to migrate a legacy client-details module from AngularJS to a standalone Angular 21 micro-frontend, packaged as a web component and embedded inside the CRM's AngularJS/Angular 7 hybrid shell. Used zoneless change detection and Signals, which brought a noticeable improvement in performance.
+- Worked within a multi-brand, white-label architecture, using environment-variable feature flags to configure functionality and branding independently for each brand.
+- Collaborated in an Agile workflow, using Git for version control and branching, and took part in code reviews with the team.
+- Used AI-assisted tools like Claude Code and Cursor to speed up implementation, refactoring, and code review during the Angular migration and regular feature work.
 
 <br>
 
@@ -60,6 +61,19 @@ Graphic design studies (612 hours) for print and digital — UI/UX.
 
 <br>
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gilshaashua&show_icons=true&theme=default&hide_border=true" height="165px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilshaashua&layout=compact&hide_border=true" height="165px" />
+</p>
+
+<br>
+
 <p align="center">
   📫 Reach me at <a href="mailto:gilshaashua@gmail.com">gilshaashua@gmail.com</a>
 </p>
+
+<!--
+**GilShaashua/GilShaashua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
